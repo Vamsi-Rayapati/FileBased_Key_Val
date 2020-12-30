@@ -8,6 +8,7 @@ Json
 2) Storing them into file</br>
 3) Reading data from file and convert it into Key-Value pair</br>
 4) Performing Operations required by user and saving result
+5) Saving file can be performed using other thread for better performance
 
 <b>Python Packages used in Implementation</b>
 1) json  (Converts Key-Value pair to String and String to Key-Value pair) </br>
