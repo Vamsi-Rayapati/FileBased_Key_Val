@@ -3,6 +3,13 @@ FreshWorks Test
 # Requiements
 Python 3</br>
 Json
+# Usage
+1) keypair=KeyVal() //creating object to keyval pair
+2) keypair.load("path") // create a new file and also  load the file if already exist
+3) keypair.create(key,val,lifetime) //creates a new key value pair
+4) keypair.read(key) // returns value of specified key
+5) keypair.delete(key) //delete the key specified
+
 # Implementation Overview
 1) Taking Key-Value input from user</br>
 2) Storing them into file</br>
