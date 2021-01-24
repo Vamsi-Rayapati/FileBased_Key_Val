@@ -1,6 +1,6 @@
 # FileBased Key_Value Pair
 FreshWorks Test
-# Requiements
+# Requirements
 Python 3</br>
 Json
 # Usage
